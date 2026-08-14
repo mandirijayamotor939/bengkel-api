@@ -1,0 +1,11 @@
+{
+  "name": "bengkel-api",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx directus start"
+  },
+  "dependencies": {
+    "directus": "^11.1.0",
+    "pg": "^8.11.0"
+  }
+}
