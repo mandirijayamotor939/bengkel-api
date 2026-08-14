@@ -2,7 +2,7 @@
   "name": "bengkel-api",
   "version": "1.0.0",
   "scripts": {
-    "start": "npx directus start"
+    "start": "directus start"
   },
   "dependencies": {
     "directus": "^11.1.0",
